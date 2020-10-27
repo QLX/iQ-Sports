@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>      
+  <connection>Data Source=localhost;Initial Catalog=TEST;User ID=sa;Password=XXXXXX;Integrated Security = True</connection>
+     <salesforceusername>USERNAME</salesforceusername>  
+  <salesforcepassword>PASSWORD</salesforcepassword>
+  <salesforcetoken>SALESFORCE TOKEN</salesforcetoken>
+  <mappingtable>MAPPING TABLE</mappingtable>
+  <sourcetable>SOURCE TABLE</sourcetable>
+  <recordsperbatch>5000</recordsperbatch>
+  <fromadress>EMAIL ADDRESS FOR  sending REPORT</fromadress>
+  <toaddress>TO EMAILS</toaddress>
+  <frompassword>PASSWORD</frompassword>            
+  <smtpserver>smtp.mailgun.org</smtpserver>
+  <smtpport>587</smtpport>
+  <emailsubject>Daily Status Report from iQ-Sport  Salesforce on </emailsubject>       
+  <externalid>Email</externalid>  
+  <externaldbid>Email_Address1</externaldbid>
+  <AccountName>Company_Name</AccountName>
+  <salesforcepath>https://loginsalesforce.com/</salesforcepath>
+  <num_rows>1000</num_rows>
+ </settings>

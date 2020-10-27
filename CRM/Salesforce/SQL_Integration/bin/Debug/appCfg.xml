@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>    
+  <connection>Data Source=localhost;Initial Catalog=TEST;User ID=sa;Password=Carito33156;Integrated Security = True</connection>
+   <salesforceusername>nayeemuddin.shaik@qlx.com</salesforceusername>  
+  <salesforcepassword>Qualex1995!</salesforcepassword>
+  <salesforcetoken>sfw8MKhr4eQSeO6rLDNGozeGu</salesforcetoken>
+  <mappingtable>iQ_SF_SSB_V1_Mapping</mappingtable>
+  <sourcetable>TEST_Contacts</sourcetable>
+  <recordsperbatch>5000</recordsperbatch>
+  <fromadress>api@support.qlx.com</fromadress>
+  <toaddress>Venu.Goly@qlx.com,Nayeemuddin.Shaik@qlx.com</toaddress>
+  <frompassword>c0b6ae846dd22901ad6c6aa13e0a163a-09001d55-294455ea</frompassword>            
+  <smtpserver>smtp.mailgun.org</smtpserver>
+  <smtpport>587</smtpport>
+  <emailsubject>Daily Status Report from iQ-Sport DW to CF Salesforce on </emailsubject>       
+  <externalid>Email</externalid>  
+  <externaldbid>Email_Address1</externaldbid>
+  <AccountName>Company_Name</AccountName>
+  <salesforcepath>https://qlx.my.salesforce.com/</salesforcepath>
+  <num_rows>0</num_rows>
+  <duplicatefilter>iQ_Customer_Key</duplicatefilter>
+ </settings>

@@ -1,0 +1,10 @@
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\bin\Debug\SQLtoSF.exe.config
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\bin\Debug\SQLtoSF.exe.manifest
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\bin\Debug\SQLtoSF.application
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\bin\Debug\SQLtoSF.exe
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\bin\Debug\SQLtoSF.pdb
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\obj\Debug\SQLtoSF.csproj.CoreCompileInputs.cache
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\obj\Debug\SQLtoSF.exe.manifest
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\obj\Debug\SQLtoSF.application
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\obj\Debug\SQLtoSF.exe
+F:\QUALEX_OFFICE\SQLtoSF\SQLtoSF\obj\Debug\SQLtoSF.pdb
